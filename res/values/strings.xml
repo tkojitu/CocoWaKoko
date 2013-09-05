@@ -2,7 +2,7 @@
 <resources>
 
     <string name="action_settings">Settings</string><string name="app_name">CocoWaKoko</string>
-    <string name="coco_wa_doko">CocoWaDoko</string><string name="send_location">Send Location</string>
+    <string name="coco_wa_doko">CocoWaDoko</string><string name="show_map">Show Map</string>
     
     
 

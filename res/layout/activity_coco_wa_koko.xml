@@ -23,7 +23,7 @@
         android:layout_height="wrap_content"
         android:layout_alignLeft="@+id/button_coco_wa_doko"
         android:layout_below="@+id/button_coco_wa_doko"
-        android:text="@string/send_location"
-        android:onClick="onClickSendLocation" />
+        android:onClick="onClickShowMap"
+        android:text="@string/show_map" />
 
 </RelativeLayout>
